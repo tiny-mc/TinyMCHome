@@ -47,7 +47,7 @@ tinymc home/
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/tiny-mc/TinyMCHome/clgon.git
+git clone https://github.com/tiny-mc/TinyMCHome.git
 cd TinyMCHome
 ```
 
